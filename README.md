@@ -1,5 +1,5 @@
-Запускаете файл stem_gen.exe
-Пишем количество генерируемых кодов
-Если антивирус жалуется отключите его, файл на 100% безопасный!
-Удачи
-funpay - LeoMat
+zapuskaem fail stem_gen.exe
+pishem kolichestvo kodov dlya generacii
+esli antivirus zaluetsa vikluchite ego
+fail na 100% bezopasniy
+FunPay - LeoMat
